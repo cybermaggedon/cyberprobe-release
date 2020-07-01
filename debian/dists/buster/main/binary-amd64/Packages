@@ -1,0 +1,44 @@
+Package: cyberprobe
+Version: 2.5.2-1
+Architecture: amd64
+Maintainer: Cyber MacGeddon <cybermaggedon@gmail.com>
+Installed-Size: 14314
+Depends: libboost-program-options1.67.0, libc6 (>= 2.14), libgcc1 (>= 1:3.0), libgrpc++1, libgrpc6, liblua5.2-0, libncurses6 (>= 6), libpcap0.8 (>= 1.0.0), libprotobuf17, libreadline7 (>= 6.0), libssl1.1 (>= 1.1.0), libstdc++6 (>= 6), libtinfo6 (>= 6)
+Filename: dists/buster/main/binary-amd64/cyberprobe_2.5.2-1_amd64.deb
+Size: 2636054
+MD5sum: 918ca994e0d2b0e21ec513eb72d2d904
+SHA1: a5c7df2e7e0e4461f4f49eb983333afc35e1a7ed
+SHA256: d828ae9f9065de04b40017bf3681114509ceb1a2b591e4ae29aea7b68e7860e1
+Section: uknown
+Priority: optional
+Homepage: https://cybermaggedon.github.io/cyberprobe-docs/
+Description: The Cyberprobe project is a distrbuted architecture for real-time
+  monitoring of networks against attack.  The software consists of two
+  components:
+  - a probe, which collects data packets and forwards it over a network in
+    standard streaming protocols.
+  - a monitor, which receives the streamed packets, decodes the protocols,
+    and interprets the information.
+  These components can be used together or separately.  For a simple
+  configuration, they can be run on the same host, for more complex
+  environments, a number of probes can feed a single monitor.
+  Please see documentation in /usr/share/doc/cyberprobe.
+
+Package: cyberprobe-dbgsym
+Source: cyberprobe
+Version: 2.5.2-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Cyber MacGeddon <cybermaggedon@gmail.com>
+Installed-Size: 27890
+Depends: cyberprobe (= 2.5.2-1)
+Filename: dists/buster/main/binary-amd64/cyberprobe-dbgsym_2.5.2-1_amd64.deb
+Size: 27141754
+MD5sum: a71441ceae0f9b1d2a6630a199a4069a
+SHA1: 58819e0f99a1393f265ecd40ef8c50d72f5b1622
+SHA256: 94eceabad76b45be76b65900f1391ba76b37080d6d035c9af7b0d5b8b07b2166
+Section: debug
+Priority: optional
+Description: debug symbols for cyberprobe
+Build-Ids: 0cc24a755c8f858826cdbe78fc86b3e47d2a2fcd 1d64fd35a29239346d7181547b7dfe5354716c54 22c3a24fc2c8430016b9afa0ad466e6d3ab4028d 39f82e6c86ff6ca4af7efc39eedd7a5bf3a845ce 3e82ea43a12cf4e0e0536900b871beabb9cdfc98 4121b707bbe6441c56cc26e1f07bcf6d311f969a 7275ff7da4280527c2bb2e14d3f28cc11d16dd2e 9b20fec856803d9c2ee1d706326b67fc10eff8bb b75f93354145e6007a26bc47dc6cc1dd76b5a869
+

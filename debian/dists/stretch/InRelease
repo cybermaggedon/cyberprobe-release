@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Date: Wed, 01 Jul 2020 12:41:09 UTC
+Architectures: amd64
+Suite: stretch
+Codename: stretch
+Origin: github.com/cybermaggedon/cyberprobe
+Label: cyberprobe
+Components: main
+Acquire-By-Hash: no
+Description: Cyberprobe package repository
+MD5Sum:
+  906e41a9166e6c5deb7ea0d044b2dd80 2297 main/binary-amd64/Packages 
+SHA1:
+  2a00dd8273e74fba9e6058dda20f6066963728c5 2297 main/binary-amd64/Packages 
+SHA256:
+  8c0e8314fc0eb1956d75451a1dac0792f8384a3015a7c5ba03a602e2b6eabd7e 2297 main/binary-amd64/Packages 
+SHA512:
+  36cab635bdeafddded8283e277ee090ef7849f534a0e6b3a1f9d777be8bf570e42a3dfa2b03a6b64515ac36265f3f7b6345155bf76bc62ad56f85ccf03f899fb 2297 main/binary-amd64/Packages 
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCAA2FiEE5oTs3LTqn2Td0D1kPFqajROJhFUFAl78hGUYHGN5YmVybWFn
+Z2Vkb25AZ21haWwuY29tAAoJEDxamo0TiYRVxpAP+wRRzUID56mAgh3d/5pfLYB3
+uRwojUXsgXran2Kycz95aE8HP7qPZ2c9FKtA2rcmjsXzry56XgO71dFNEVe2eVZu
+PbtLAWhgpnKBYvMOvd5Pbufn8B2Yzm22r1Q5jO29R6uYDUGKf6HiyQQ9ngYpjgPJ
+n8YkKO6kh9v/apNw8IaOLGOvY/Jpiw8lcMnFnsBgXmfmjp9ya4pc8LF+oSYjftCK
+nvvtjyhSd/QquTc3EVrdDxMXHGU8Y+WwopJrjRveK4YK5YLYDsV4ZOs4ggrRy11G
+PUYwJjWQPHNG4dVgzhbcsy/RYV6yIBS0mFK4spEJtNGpxUdmCsuF2/R0RgUzsYJO
+Y5XZ/I+kXp9CIVOxaBoQU9ZAp8yaFyvK+oT5MIrhuQ5OuYvj3qeYrnEhxFm62OxI
+8tbyupc6pi5L1U2+3lKPbirQxFax1M0EQOB89K43PKGOh2YvqwLQ+KO5Pyv3KI6j
+nLOhUxWp/GUf8mKZcw52UXOTdA5vnN4PixYmNmZqXBFkXLcH0bjFBA/hQZJ8JHk0
+SvwS0roluvQTBLXD8iXbumq0wzaSicRNo7vUpmpQznPXpCXMcWI9dO319VE5GYeB
+d5HpocsoEnS4zIEzCCppFhMw93LTtfnVGIRhRSeR2KlnfqbX2y9bFJ7blHeka13n
+Zahn07dFIVW3/EsmptSh
+=fyrZ
+-----END PGP SIGNATURE-----

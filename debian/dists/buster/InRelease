@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Date: Wed, 01 Jul 2020 12:41:31 UTC
+Architectures: amd64
+Suite: buster
+Codename: buster
+Origin: github.com/cybermaggedon/cyberprobe
+Label: cyberprobe
+Components: main
+Acquire-By-Hash: no
+Description: Cyberprobe package repository
+MD5Sum:
+  a46d576e7eea893287935c0d6d883723 2300 main/binary-amd64/Packages 
+SHA1:
+  20f372c89040b25ac63198199e1ceb79ff058521 2300 main/binary-amd64/Packages 
+SHA256:
+  97580c29c57b285b48cb390cd21a86c785b0f51adac69c1068516fbebb353e07 2300 main/binary-amd64/Packages 
+SHA512:
+  fcffe67125e715a332f9455f481773fd425aad0bfa5a586550efafeabbbe8691b3571701e63ee1253c24061c0fc3284d9e906a6853b80b4cde527417ff24b2ff 2300 main/binary-amd64/Packages 
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCAA2FiEE5oTs3LTqn2Td0D1kPFqajROJhFUFAl78hHsYHGN5YmVybWFn
+Z2Vkb25AZ21haWwuY29tAAoJEDxamo0TiYRVNYoP/2vskMfxPhoGRGfkTjVDfwCB
+9vUwlt+nGTqqKBTdZlKSmSAoM3PUnVVEtPSuPwBWyATkvakf1+/L6dfB4CrZ4RqN
+DD53rNYA8UELHehXXxuy5Yv4Si8N9i6qiwQ7b85UDYR8S/Urr1g2xO2KNmy1Vpkk
+iVDlzQIyGDXlAPPl+XCuDeVmKGxTvlvHIJbvkoR9GDrFAiNqf+yYCdybXQ7TSm9Y
+XmqVT1axC34dHKP1Bt1ycbp4+aL60WFqpQRh8CEROVJw3UhmITsTG9X83SPXLXbE
+OJGfouuwLJruLL67jH2SDxJfgHakPqGf+ZVj0+v9duR3oESyatONvN+7sPnNnUVe
+zB6AprEu1Lpau6AtJxsXjcOkS0mOv4M0gURMc3QkBHfYBFwc+xkDzhMueOQBHMqK
+OyxxjVOyvKgoODG+rli0U3Cwx1lLPVWcNWZCM2jzWHFTd/6q9bxXcXT68y7qmbsG
+hlpQXZL2lK+5TGdyug5WOU9ha7maQ1tEHsPE5alWeuMFYBKZuovYCfJDC2XpoRrI
+K9SpRBsLUEJVTbJw+6dHL6QJThNGt4jLa0/rsYI3SoKLesmHclK8gIc8kvMZNaED
+yDrMQOPwUBhTt088yGwGmVGMBHraGM2RQaYW3oIK1nyqdmdga7AIZvr/nrfo/HMD
+4CRrzn8n03JNdnugHnpV
+=QIct
+-----END PGP SIGNATURE-----

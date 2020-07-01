@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Date: Wed, 01 Jul 2020 12:41:55 UTC
+Architectures: amd64
+Suite: bionic
+Codename: bionic
+Origin: github.com/cybermaggedon/cyberprobe
+Label: cyberprobe
+Components: main
+Acquire-By-Hash: no
+Description: Cyberprobe package repository
+MD5Sum:
+  82afa9a3c5f941ffed7472c7e398b7b1 1323 main/binary-amd64/Packages 
+SHA1:
+  f74d93efc02c91a474bbe8781294c8fec7865291 1323 main/binary-amd64/Packages 
+SHA256:
+  9ce50b14af0a20d91ba729c49ee63b8341729a7fc4e5a28d288ee0525b47118d 1323 main/binary-amd64/Packages 
+SHA512:
+  19c78b18f3c720808cfc3e541dbddaef9627ae12b5e7242058fe14688d8148563e547da58ef433d59ca31834568b36fd7a263ea35bde413eef9874dd379ade76 1323 main/binary-amd64/Packages 
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCAA2FiEE5oTs3LTqn2Td0D1kPFqajROJhFUFAl78hJMYHGN5YmVybWFn
+Z2Vkb25AZ21haWwuY29tAAoJEDxamo0TiYRVNq0P/39OXNrwCNakZLPPvUig4yZI
+jfX6H07A5LG8/KGf3vxlsdgl0HZcL2tU2zlOReDJFVdG8ZGlh342iRKaNUFsdzEA
+0xf+M80dVK/lffnZodDICYlv7m7aU+la1v7hpzfYEYYeyaiIXjWOfFWANfO+QSqZ
+++WMxmnwa9LcPl0IyOXhvz/pPJO/lM/0IKILV5xVrYn4XW/VhFssV1lDdY8vLWHt
++R5GJS2BAPVepfEW0aVurbptbvnATHvR6Ls967HxbywhqkGPDEJcEMfNy/VHva5F
+Wzt/qPXMkMOECP7J/hJNlWClSmOUtVRrRsu/oi8FCHcpLobHVv1cgxlT8JpJtjqF
+owSGOL2yU7LwcyNdiOwgCUaF441N070yhEiYylse6Feju8VlWEn3dVljO7mhCtEN
+O0jTrewuvOezQj9kBsGC5VhVky50rP7u1qyyGTTkfLQZskvfaeGDg1bDI9nGbYBU
+0vG93zwHVISSjQ5lgN2zBE5H4kR9xGVQSM9I/yeHDFmA1w5UWYZYusLNQ/II0Dya
+7P1iwN7pvpygc49JxEubsLjICUB+dlxhL2HewyxvQBZy6o3vluOCuk/6UlMuMCQ2
+uzXdPJA46pjuiNjoV81n/t/16bIs2LWBa13KDczVrmwDxVXUMw+Xgfjz+ha/vA8q
+im6dKz/qcFVjuJYjygda
+=ghgQ
+-----END PGP SIGNATURE-----

@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Date: Wed, 01 Jul 2020 12:42:22 UTC
+Architectures: amd64
+Suite: focal
+Codename: focal
+Origin: github.com/cybermaggedon/cyberprobe
+Label: cyberprobe
+Components: main
+Acquire-By-Hash: no
+Description: Cyberprobe package repository
+MD5Sum:
+  c855c1fa3b8301fc82ed46b3187a707f 1344 main/binary-amd64/Packages 
+SHA1:
+  4b7f0c8f21f8c58ac777066529d2ea032b5b8520 1344 main/binary-amd64/Packages 
+SHA256:
+  f7acc1af352386d7457109df14571495e7640b63781581338c99e4fd8cb441ea 1344 main/binary-amd64/Packages 
+SHA512:
+  36f74fb0ccba3e23c68bb65b18a59f81a79e7f8ff6f83d8b4de244696c46a4a7735b59ffa70fb9ef1f639621c3c417014d0e90effa6f0f051c19109f23498a27 1344 main/binary-amd64/Packages 
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCAA2FiEE5oTs3LTqn2Td0D1kPFqajROJhFUFAl78hK8YHGN5YmVybWFn
+Z2Vkb25AZ21haWwuY29tAAoJEDxamo0TiYRVxMEQAI2uG2ce+Wp3bVLP6bLZaGjv
+5nvETkJKJPA046+rIw+tsM0nLT28zNwCVstK6iDOAO0QS9lpKFMtIF3NYLUfcV+I
+o4OX8gFGjFQvHSeb7LQEM2FFkhQmoEDKnIoDMqeyrku2lUNr5ByTleMyIAkbVfi9
+H1esg/LJUNiQv82Ly3wRa3Dy7cQQXdLs0U1ztiTCx/a4vtb/KlcDEvZyA+6khCLU
+G/f8gP1X4SfebUshNCyZaey8p4I3trE24DJLB5a+jbJbdXpja1gH7AuVrTL2JcAG
+DPdO/GOMq5MMU9PeShp/GLRT4r2CXCUzI3x3hpu14jSkKxouVCcwQJisMy9VZ/og
+a1jXENScDoskkmFZPCM/S9AjnQxOwyo+qJsMV76hTzQM+VQzTpHieJ/IWAlsgjZH
+BId87+oX2ot2TFVH+2SM6GZ8LsHSwrOOL4YHMlhFLClC/QQ2FF1a4Peby3tBsLCY
+ojMm6dUOmdDW22jsJTOd01rgjMi3gBe95ttySODriI13pbaRxxgK+ODOuzsmmwDY
+nmXloShICC2ASbkj59XpB0hH8+Rg8DJxlOcwuyoGAZPyRSFTC48ncvfz8PIU7BpP
+4pG+aJGcfGS+s1fY4hRvKYohK9Q7xpztuwVt2SCDdwlbdUlH+8CVClzcnPPKHqwt
+BizUWF8f69bOvTH/mvBl
+=7yol
+-----END PGP SIGNATURE-----

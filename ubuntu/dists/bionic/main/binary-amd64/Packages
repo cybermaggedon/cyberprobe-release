@@ -1,0 +1,26 @@
+Package: cyberprobe
+Version: 2.5.2-1
+Architecture: amd64
+Maintainer: Cyber MacGeddon <cybermaggedon@gmail.com>
+Installed-Size: 13157
+Depends: libboost-program-options1.65.1, libc6 (>= 2.14), libgcc1 (>= 1:3.0), liblua5.2-0, libpcap0.8 (>= 1.0.0), libprotobuf10, libreadline7 (>= 6.0), libssl1.1 (>= 1.1.0), libstdc++6 (>= 6), libtinfo5 (>= 6)
+Filename: dists/bionic/main/binary-amd64/cyberprobe_2.5.2-1_amd64.deb
+Size: 2526558
+MD5sum: 951bf6d33c830edeeeebdce466c85590
+SHA1: 0757b4e8f6cfc23bd899bbcd9df5dac30d861cec
+SHA256: 9e3808c6b1ac1301b943832a4ad1cad257c032e7435f70032861b660e6d342da
+Section: uknown
+Priority: optional
+Homepage: https://cybermaggedon.github.io/cyberprobe-docs/
+Description: The Cyberprobe project is a distrbuted architecture for real-time
+  monitoring of networks against attack.  The software consists of two
+  components:
+  - a probe, which collects data packets and forwards it over a network in
+    standard streaming protocols.
+  - a monitor, which receives the streamed packets, decodes the protocols,
+    and interprets the information.
+  These components can be used together or separately.  For a simple
+  configuration, they can be run on the same host, for more complex
+  environments, a number of probes can feed a single monitor.
+  Please see documentation in /usr/share/doc/cyberprobe.
+
